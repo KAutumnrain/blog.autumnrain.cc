@@ -1,0 +1,4 @@
+Sitemap: https://kautumnrain.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kautumnrain.github.io
