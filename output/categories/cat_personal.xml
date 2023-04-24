@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about personal)</title><link>https://kautumnrain.github.io/</link><description></description><atom:link href="https://kautumnrain.github.io/categories/cat_personal.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Mon, 24 Apr 2023 00:26:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Starting Back</title><link>https://kautumnrain.github.io/posts/starting-back/</link><dc:creator>kat</dc:creator><description>&lt;section id="back-in-a-wip-form"&gt;
+&lt;h2&gt;Back, In A WIP form&lt;/h2&gt;
+&lt;p&gt;Well, here we are again.&lt;/p&gt;
+&lt;p&gt;This is kind of a continuation from a substack blog...
+I decided that despite the blog's many failings, I should try writing again. I'll actually
+be throwing a post out over there once I'm finished writing this to prove I'm not just
+saying things to say things.&lt;/p&gt;
+&lt;p&gt;I wanted a more elegant (read: deployable) solution, but this was the best I could do in
+my current circumstances. The nice thing about this is that I get a proper RSS feed now,
+and I can use it for multiple things. Once I get some domains figured out, things just
+kinda fall into place.&lt;/p&gt;
+&lt;p&gt;The substack blog was supposed to be a project-specific-esque-learn-everything-always
+blog, but it ended up stressing me out more than it needed to, and adding salt into the
+wound when things got much worse. One thing I'm recognizing is how awful life-changing
+events demotivate me, in all aspects, particularly post-COVID.&lt;/p&gt;
+&lt;p&gt;In any case, I'm trying to make this less like a job, and more like how a blog probably
+should be. There'll still be pretty technical stuff going on around here, but since
+blogs are suggested by the larger technical diaspora, I'll try to hang on.&lt;/p&gt;
+&lt;p&gt;No speedrunning projects for weekly grinds, no tearing myself apart for burning out.&lt;/p&gt;
+&lt;p&gt;Oh also; I have yet to customize the blog template, so it's this hyperbasic plain blog
+theme. I will get it more inline with &lt;a class="reference external" href="https://kautumnrain.neocities.org"&gt;my personal site&lt;/a&gt;
+at... some point.&lt;/p&gt;
+&lt;p&gt;'til next time.&lt;/p&gt;
+&lt;/section&gt;</description><category>iteration</category><category>ramblings</category><guid>https://kautumnrain.github.io/posts/starting-back/</guid><pubDate>Mon, 24 Apr 2023 00:03:36 GMT</pubDate></item></channel></rss>
