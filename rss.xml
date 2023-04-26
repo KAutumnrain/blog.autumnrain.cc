@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity</title><link>https://kautumnrain.github.io/</link><description>Now with 50% more realistic expectations!</description><atom:link href="https://kautumnrain.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Wed, 26 Apr 2023 04:56:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity</title><link>https://kautumnrain.github.io/</link><description>Now with 50% more realistic expectations!</description><atom:link href="https://kautumnrain.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Wed, 26 Apr 2023 05:05:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
 &lt;p&gt;Tragically, I'm trying to keep my mind off of not getting
 an immediate response from an HR dept about some work, since
 self-employment didn't treat me all that well. Learning new
@@ -24,7 +24,7 @@ because I like supporting other writers, too. I would like to give
 more details on this in the future. I think Substack is trying to be
 many things that it isn't that great at being, and it may tie into
 a larger platform-related rant regarding 'everything apps'.&lt;/p&gt;
-&lt;p&gt;The comment system I'm using, &lt;a href="https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;`utterances&amp;lt;https://utteranc.es/&amp;gt;`_&lt;/span&gt;&lt;/a&gt;, is still pretty nifty to me.
+&lt;p&gt;The comment system I'm using, &lt;a class="reference external" href="https://utteranc.es/"&gt;utterances&lt;/a&gt;, is still pretty nifty to me.
 I know not everyone has a github, and I am tempted to throw up a contact
 email or something for those that don't partake. We'll see. I definitely
 want to throw the effort at it.&lt;/p&gt;
@@ -35,23 +35,8 @@ appealing.&lt;/p&gt;
 &lt;p&gt;Finally, I have new, actually attainable goals. Personal tragedy can
 be the world's greatest humility machine. The Earth is never as far
 away as one thinks.&lt;/p&gt;
-&lt;section id="covenant-call-the-ships-to-port"&gt;
-&lt;h2&gt;♫ : Covenant - Call The Ships To Port&lt;/h2&gt;
-&lt;aside class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 48)&lt;/p&gt;
-&lt;p&gt;Title overline too short.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;----
-♫ : Covenant - Call The Ships To Port
-----&lt;/pre&gt;
-&lt;/aside&gt;
-&lt;/section&gt;
-&lt;section class="system-messages"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;aside class="system-message" id="system-message-1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 34); &lt;em&gt;&lt;a href="https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/#problematic-1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Unknown target name: "utterances&amp;lt;https://utteranc.es/&amp;gt;".&lt;/p&gt;
-&lt;/aside&gt;
-&lt;/section&gt;</description><category>ramblings</category><guid>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</guid><pubDate>Wed, 26 Apr 2023 04:15:26 GMT</pubDate></item><item><title>Starting Back</title><link>https://kautumnrain.github.io/posts/starting-back/</link><dc:creator>kat</dc:creator><description>&lt;section id="back-in-a-wip-form"&gt;
+&lt;hr class="docutils"&gt;
+&lt;p&gt;♫ : Covenant - Call The Ships To Port&lt;/p&gt;</description><category>ramblings</category><guid>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</guid><pubDate>Wed, 26 Apr 2023 04:15:26 GMT</pubDate></item><item><title>Starting Back</title><link>https://kautumnrain.github.io/posts/starting-back/</link><dc:creator>kat</dc:creator><description>&lt;section id="back-in-a-wip-form"&gt;
 &lt;h2&gt;Back, In A WIP form&lt;/h2&gt;
 &lt;p&gt;Well, here we are again.&lt;/p&gt;
 &lt;p&gt;This is kind of a continuation from a substack blog...
