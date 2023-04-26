@@ -40,7 +40,7 @@ more details on this in the future. I think Substack is trying to be
 many things that it isn't that great at being, and it may tie into
 a larger platform-related rant regarding 'everything apps'. 
 
-The comment system I'm using, `utterances<https://utteranc.es/>`_, is still pretty nifty to me. 
+The comment system I'm using, `utterances <https://utteranc.es/>`_, is still pretty nifty to me. 
 I know not everyone has a github, and I am tempted to throw up a contact 
 email or something for those that don't partake. We'll see. I definitely
 want to throw the effort at it.
@@ -55,8 +55,9 @@ be the world's greatest humility machine. The Earth is never as far
 away as one thinks.
 
 ----
+
 ♫ : Covenant - Call The Ships To Port
-----
+
 
 
 
