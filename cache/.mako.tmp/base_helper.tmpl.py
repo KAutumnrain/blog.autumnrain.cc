@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1682949712.4491847
+_modified_time = 1682949863.6140075
 _enable_loop = True
-_template_filename = '/usr/lib/python3.10/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl'
+_template_filename = 'themes/bootstrap4/templates/base_helper.tmpl'
 _template_uri = 'base_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['html_headstart', 'late_load_js', 'html_stylesheets', 'html_navigation_links', 'html_navigation_links_entries', 'html_feedlinks', 'html_translations']
@@ -48,28 +48,28 @@ def render_html_headstart(context):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        meta_generator_tag = _import_ns.get('meta_generator_tag', context.get('meta_generator_tag', UNDEFINED))
-        extra_head_data = _import_ns.get('extra_head_data', context.get('extra_head_data', UNDEFINED))
         def html_stylesheets():
             return render_html_stylesheets(context)
-        def html_feedlinks():
-            return render_html_feedlinks(context)
-        use_cdn = _import_ns.get('use_cdn', context.get('use_cdn', UNDEFINED))
-        prevlink = _import_ns.get('prevlink', context.get('prevlink', UNDEFINED))
-        theme_color = _import_ns.get('theme_color', context.get('theme_color', UNDEFINED))
-        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
-        favicons = _import_ns.get('favicons', context.get('favicons', UNDEFINED))
-        is_rtl = _import_ns.get('is_rtl', context.get('is_rtl', UNDEFINED))
-        comment_system = _import_ns.get('comment_system', context.get('comment_system', UNDEFINED))
-        nextlink = _import_ns.get('nextlink', context.get('nextlink', UNDEFINED))
-        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
-        url_replacer = _import_ns.get('url_replacer', context.get('url_replacer', UNDEFINED))
-        permalink = _import_ns.get('permalink', context.get('permalink', UNDEFINED))
-        url_type = _import_ns.get('url_type', context.get('url_type', UNDEFINED))
         lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
         title = _import_ns.get('title', context.get('title', UNDEFINED))
-        comment_system_id = _import_ns.get('comment_system_id', context.get('comment_system_id', UNDEFINED))
+        meta_generator_tag = _import_ns.get('meta_generator_tag', context.get('meta_generator_tag', UNDEFINED))
+        theme_color = _import_ns.get('theme_color', context.get('theme_color', UNDEFINED))
+        url_type = _import_ns.get('url_type', context.get('url_type', UNDEFINED))
+        blog_title = _import_ns.get('blog_title', context.get('blog_title', UNDEFINED))
+        prevlink = _import_ns.get('prevlink', context.get('prevlink', UNDEFINED))
         description = _import_ns.get('description', context.get('description', UNDEFINED))
+        def html_feedlinks():
+            return render_html_feedlinks(context)
+        permalink = _import_ns.get('permalink', context.get('permalink', UNDEFINED))
+        favicons = _import_ns.get('favicons', context.get('favicons', UNDEFINED))
+        nextlink = _import_ns.get('nextlink', context.get('nextlink', UNDEFINED))
+        comment_system = _import_ns.get('comment_system', context.get('comment_system', UNDEFINED))
+        use_cdn = _import_ns.get('use_cdn', context.get('use_cdn', UNDEFINED))
+        extra_head_data = _import_ns.get('extra_head_data', context.get('extra_head_data', UNDEFINED))
+        comment_system_id = _import_ns.get('comment_system_id', context.get('comment_system_id', UNDEFINED))
+        is_rtl = _import_ns.get('is_rtl', context.get('is_rtl', UNDEFINED))
+        url_replacer = _import_ns.get('url_replacer', context.get('url_replacer', UNDEFINED))
+        abs_link = _import_ns.get('abs_link', context.get('abs_link', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n<!DOCTYPE html>\n<html\n')
         __M_writer("prefix='")
@@ -152,9 +152,9 @@ def render_late_load_js(context):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        luxon_locales = _import_ns.get('luxon_locales', context.get('luxon_locales', UNDEFINED))
-        use_cdn = _import_ns.get('use_cdn', context.get('use_cdn', UNDEFINED))
         lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        use_cdn = _import_ns.get('use_cdn', context.get('use_cdn', UNDEFINED))
+        luxon_locales = _import_ns.get('luxon_locales', context.get('luxon_locales', UNDEFINED))
         social_buttons_code = _import_ns.get('social_buttons_code', context.get('social_buttons_code', UNDEFINED))
         use_bundles = _import_ns.get('use_bundles', context.get('use_bundles', UNDEFINED))
         date_fanciness = _import_ns.get('date_fanciness', context.get('date_fanciness', UNDEFINED))
@@ -193,10 +193,10 @@ def render_html_stylesheets(context):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        has_custom_css = _import_ns.get('has_custom_css', context.get('has_custom_css', UNDEFINED))
+        needs_ipython_css = _import_ns.get('needs_ipython_css', context.get('needs_ipython_css', UNDEFINED))
         use_bundles = _import_ns.get('use_bundles', context.get('use_bundles', UNDEFINED))
         use_cdn = _import_ns.get('use_cdn', context.get('use_cdn', UNDEFINED))
-        needs_ipython_css = _import_ns.get('needs_ipython_css', context.get('needs_ipython_css', UNDEFINED))
+        has_custom_css = _import_ns.get('has_custom_css', context.get('has_custom_css', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    <link type="text/css" rel="stylesheet" href="augmented-ui.css">\n')
         if use_cdn:
@@ -223,9 +223,9 @@ def render_html_navigation_links(context):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
+        navigation_links = _import_ns.get('navigation_links', context.get('navigation_links', UNDEFINED))
         def html_navigation_links_entries(navigation_links_source):
             return render_html_navigation_links_entries(context,navigation_links_source)
-        navigation_links = _import_ns.get('navigation_links', context.get('navigation_links', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n    ')
         __M_writer(str(html_navigation_links_entries(navigation_links)))
@@ -240,12 +240,12 @@ def render_html_navigation_links_entries(context,navigation_links_source):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        permalink = _import_ns.get('permalink', context.get('permalink', UNDEFINED))
-        isinstance = _import_ns.get('isinstance', context.get('isinstance', UNDEFINED))
-        rel_link = _import_ns.get('rel_link', context.get('rel_link', UNDEFINED))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
         tuple = _import_ns.get('tuple', context.get('tuple', UNDEFINED))
+        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        isinstance = _import_ns.get('isinstance', context.get('isinstance', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        rel_link = _import_ns.get('rel_link', context.get('rel_link', UNDEFINED))
+        permalink = _import_ns.get('permalink', context.get('permalink', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         for url, text in navigation_links_source[lang]:
@@ -309,11 +309,11 @@ def render_html_translations(context):
     try:
         _import_ns = {}
         _mako_get_namespace(context, 'feeds_translations')._populate(_import_ns, ['*'])
-        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
+        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
         sorted = _import_ns.get('sorted', context.get('sorted', UNDEFINED))
         _link = _import_ns.get('_link', context.get('_link', UNDEFINED))
         messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        translations = _import_ns.get('translations', context.get('translations', UNDEFINED))
         __M_writer = context.writer()
         __M_writer('\n')
         for langname in sorted(translations):
@@ -332,6 +332,6 @@ def render_html_translations(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/usr/lib/python3.10/site-packages/nikola/data/themes/bootstrap4/templates/base_helper.tmpl", "uri": "base_helper.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "33": 2, "34": 63, "35": 98, "36": 127, "37": 131, "38": 154, "39": 158, "40": 166, "46": 4, "74": 4, "75": 8, "76": 9, "77": 10, "78": 11, "79": 13, "80": 14, "81": 15, "82": 18, "83": 18, "84": 18, "85": 21, "86": 22, "87": 22, "88": 22, "89": 24, "90": 25, "91": 26, "92": 26, "93": 26, "94": 27, "95": 28, "96": 28, "97": 28, "98": 28, "99": 28, "100": 30, "101": 31, "102": 31, "103": 32, "104": 32, "105": 33, "106": 34, "107": 36, "108": 36, "109": 36, "110": 37, "111": 37, "112": 39, "113": 40, "114": 41, "115": 41, "116": 41, "117": 41, "118": 41, "119": 41, "120": 41, "121": 44, "122": 45, "123": 46, "124": 46, "125": 46, "126": 48, "127": 49, "128": 50, "129": 50, "130": 50, "131": 52, "132": 53, "133": 53, "134": 53, "135": 55, "136": 56, "137": 57, "138": 58, "139": 59, "140": 59, "141": 59, "142": 61, "143": 62, "144": 62, "150": 65, "162": 65, "163": 66, "164": 67, "165": 72, "166": 73, "167": 74, "168": 75, "169": 76, "170": 77, "171": 78, "172": 84, "173": 85, "174": 86, "175": 86, "176": 86, "177": 88, "178": 89, "179": 90, "180": 91, "181": 93, "182": 94, "183": 97, "184": 97, "185": 97, "191": 101, "201": 101, "202": 103, "203": 104, "204": 107, "205": 108, "206": 109, "207": 110, "208": 111, "209": 112, "210": 113, "211": 116, "212": 119, "213": 120, "214": 123, "215": 124, "221": 129, "230": 129, "231": 130, "232": 130, "238": 133, "250": 133, "251": 134, "252": 135, "253": 136, "254": 136, "255": 136, "256": 138, "257": 139, "258": 140, "259": 140, "260": 140, "261": 140, "262": 140, "263": 140, "264": 140, "265": 141, "266": 142, "267": 142, "268": 142, "269": 142, "270": 142, "271": 145, "272": 146, "273": 147, "274": 148, "275": 148, "276": 148, "277": 148, "278": 148, "279": 148, "280": 148, "281": 149, "282": 150, "283": 150, "284": 150, "285": 150, "286": 150, "292": 156, "299": 156, "300": 157, "301": 157, "307": 160, "318": 160, "319": 161, "320": 162, "321": 163, "322": 163, "323": 163, "324": 163, "325": 163, "326": 163, "327": 163, "333": 327}}
+{"filename": "themes/bootstrap4/templates/base_helper.tmpl", "uri": "base_helper.tmpl", "source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "33": 2, "34": 63, "35": 98, "36": 127, "37": 131, "38": 154, "39": 158, "40": 166, "46": 4, "74": 4, "75": 8, "76": 9, "77": 10, "78": 11, "79": 13, "80": 14, "81": 15, "82": 18, "83": 18, "84": 18, "85": 21, "86": 22, "87": 22, "88": 22, "89": 24, "90": 25, "91": 26, "92": 26, "93": 26, "94": 27, "95": 28, "96": 28, "97": 28, "98": 28, "99": 28, "100": 30, "101": 31, "102": 31, "103": 32, "104": 32, "105": 33, "106": 34, "107": 36, "108": 36, "109": 36, "110": 37, "111": 37, "112": 39, "113": 40, "114": 41, "115": 41, "116": 41, "117": 41, "118": 41, "119": 41, "120": 41, "121": 44, "122": 45, "123": 46, "124": 46, "125": 46, "126": 48, "127": 49, "128": 50, "129": 50, "130": 50, "131": 52, "132": 53, "133": 53, "134": 53, "135": 55, "136": 56, "137": 57, "138": 58, "139": 59, "140": 59, "141": 59, "142": 61, "143": 62, "144": 62, "150": 65, "162": 65, "163": 66, "164": 67, "165": 72, "166": 73, "167": 74, "168": 75, "169": 76, "170": 77, "171": 78, "172": 84, "173": 85, "174": 86, "175": 86, "176": 86, "177": 88, "178": 89, "179": 90, "180": 91, "181": 93, "182": 94, "183": 97, "184": 97, "185": 97, "191": 101, "201": 101, "202": 103, "203": 104, "204": 107, "205": 108, "206": 109, "207": 110, "208": 111, "209": 112, "210": 113, "211": 116, "212": 119, "213": 120, "214": 123, "215": 124, "221": 129, "230": 129, "231": 130, "232": 130, "238": 133, "250": 133, "251": 134, "252": 135, "253": 136, "254": 136, "255": 136, "256": 138, "257": 139, "258": 140, "259": 140, "260": 140, "261": 140, "262": 140, "263": 140, "264": 140, "265": 141, "266": 142, "267": 142, "268": 142, "269": 142, "270": 142, "271": 145, "272": 146, "273": 147, "274": 148, "275": 148, "276": 148, "277": 148, "278": 148, "279": 148, "280": 148, "281": 149, "282": 150, "283": 150, "284": 150, "285": 150, "286": 150, "292": 156, "299": 156, "300": 157, "301": 157, "307": 160, "318": 160, "319": 161, "320": 162, "321": 163, "322": 163, "323": 163, "324": 163, "325": 163, "326": 163, "327": 163, "333": 327}}
 __M_END_METADATA
 """
