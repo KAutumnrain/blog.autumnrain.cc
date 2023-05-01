@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity</title><link>https://kautumnrain.github.io/</link><description>Now with 50% more realistic expectations!</description><atom:link href="https://kautumnrain.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Wed, 26 Apr 2023 05:05:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity</title><link>https://kautumnrain.github.io/</link><description>Find Yourself Starting Back</description><atom:link href="https://kautumnrain.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Mon, 01 May 2023 05:02:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Blog Changes</title><link>https://kautumnrain.github.io/posts/blog-changes/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;Check this out!&lt;/p&gt;
+&lt;p&gt;You may have noticed I have swapped out the theme from &lt;a class="reference external" href="https://themes.getnikola.com/v8/hack/"&gt;hack&lt;/a&gt; to
+&lt;a class="reference external" href="https://themes.getnikola.com/v8/bootstrap4/"&gt;bootstrap4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I'm doing it mostly for ease of customization,
+but it's becoming incredibly clear that I may just have to do a pure overhaul of most themes.
+There are huge 'one-liners' of CSS that make it pretty difficult to modify the theme further.&lt;/p&gt;
+&lt;p&gt;As such, this will be a temporary theme until I have the time and energy to bring things into my personal
+spec.&lt;/p&gt;
+&lt;p&gt;Automation-wise, I haven't really worked on that yet either, mostly because it's largely dependent on
+me settling on a theme, but I might just go ahead and write the pipeline anyhow, since I have to rebuild
+the entire project anyways every time I want to post.&lt;/p&gt;
+&lt;p&gt;Like the theme? Don't care for it? Let me know (mostly because some of this theme might end up in the
+real semi-permanent one).&lt;/p&gt;</description><category>blog meta</category><guid>https://kautumnrain.github.io/posts/blog-changes/</guid><pubDate>Mon, 01 May 2023 04:34:35 GMT</pubDate></item><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
 &lt;p&gt;Tragically, I'm trying to keep my mind off of not getting
 an immediate response from an HR dept about some work, since
 self-employment didn't treat me all that well. Learning new
@@ -13,6 +25,7 @@ a personal failing that I don't exactly understand it immediately.
 I intend to draw and plan out my theme and throw it up for those
 using Nikola as well, assuming I can get it to my liking.&lt;/p&gt;
 &lt;p&gt;With a customizable config, of course.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
 &lt;p&gt;The automation with actions seems pretty straightforward, but as an eventuality
 I'd like to get this up on an EC2 at some juncture, although staying within
 free-tier is probably impossible (understandably).&lt;/p&gt;
@@ -47,6 +60,7 @@ saying things to say things.&lt;/p&gt;
 my current circumstances. The nice thing about this is that I get a proper RSS feed now,
 and I can use it for multiple things. Once I get some domains figured out, things just
 kinda fall into place.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
 &lt;p&gt;The substack blog was supposed to be a project-specific-esque-learn-everything-always
 blog, but it ended up stressing me out more than it needed to, and adding salt into the
 wound when things got much worse. One thing I'm recognizing is how awful life-changing

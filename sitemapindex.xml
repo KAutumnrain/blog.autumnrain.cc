@@ -6,27 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://kautumnrain.github.io/categories/blog-meta.xml</loc>
+  <lastmod>2023-05-01T04:58:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kautumnrain.github.io/categories/cat_blog-meta.xml</loc>
+  <lastmod>2023-05-01T04:58:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://kautumnrain.github.io/categories/cat_personal.xml</loc>
-  <lastmod>2023-04-26T04:56:00Z</lastmod>
+  <lastmod>2023-05-01T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/iteration.xml</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-05-01T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/ramblings.xml</loc>
-  <lastmod>2023-04-26T04:56:00Z</lastmod>
+  <lastmod>2023-05-01T03:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/galleries/rss.xml</loc>
-  <lastmod>2023-04-24T01:01:00Z</lastmod>
+  <lastmod>2023-05-01T04:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/rss.xml</loc>
-  <lastmod>2023-04-26T04:56:00Z</lastmod>
+  <lastmod>2023-05-01T04:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/sitemap.xml</loc>
-  <lastmod>2023-04-26T04:56:00Z</lastmod>
+  <lastmod>2023-05-01T04:58:00Z</lastmod>
  </sitemap>
 </sitemapindex>
