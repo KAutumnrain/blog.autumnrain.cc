@@ -192,12 +192,12 @@ THEME_CONFIG = {
 THEME_CONFIG = {
     DEFAULT_LANG: {
          # Use a light navbar with dark text. Defaults to False.
-         #'navbar_light': False,
+         'navbar_light': False,
          # Use a custom navbar color. If unset, 'navbar_light' sets text +
          # background color. If set, navbar_light controls only background
          # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
          # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
-         'navbar_custom_bg': 'bg-transparent',
+         'navbar_custom_bg': 'bg-dark',
      }
 }
 
