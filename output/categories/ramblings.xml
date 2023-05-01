@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about ramblings)</title><link>https://kautumnrain.github.io/</link><description></description><atom:link href="https://kautumnrain.github.io/categories/ramblings.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Wed, 26 Apr 2023 05:05:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about ramblings)</title><link>https://kautumnrain.github.io/</link><description></description><atom:link href="https://kautumnrain.github.io/categories/ramblings.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Mon, 01 May 2023 03:25:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ramblings of a Cryotank</title><link>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;I'm mostly writing this to take my mind off things.&lt;/p&gt;
 &lt;p&gt;Tragically, I'm trying to keep my mind off of not getting
 an immediate response from an HR dept about some work, since
 self-employment didn't treat me all that well. Learning new
@@ -13,6 +13,7 @@ a personal failing that I don't exactly understand it immediately.
 I intend to draw and plan out my theme and throw it up for those
 using Nikola as well, assuming I can get it to my liking.&lt;/p&gt;
 &lt;p&gt;With a customizable config, of course.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
 &lt;p&gt;The automation with actions seems pretty straightforward, but as an eventuality
 I'd like to get this up on an EC2 at some juncture, although staying within
 free-tier is probably impossible (understandably).&lt;/p&gt;
@@ -47,6 +48,7 @@ saying things to say things.&lt;/p&gt;
 my current circumstances. The nice thing about this is that I get a proper RSS feed now,
 and I can use it for multiple things. Once I get some domains figured out, things just
 kinda fall into place.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
 &lt;p&gt;The substack blog was supposed to be a project-specific-esque-learn-everything-always
 blog, but it ended up stressing me out more than it needed to, and adding salt into the
 wound when things got much worse. One thing I'm recognizing is how awful life-changing

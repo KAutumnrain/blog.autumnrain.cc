@@ -25,7 +25,7 @@ SITE_URL = "https://kautumnrain.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://kautumnrain.github.io/"
 BLOG_EMAIL = ""
-BLOG_DESCRIPTION = "Now with 50% more realistic expectations!"  # (translatable)
+BLOG_DESCRIPTION = "Find Yourself Starting Back"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -156,12 +156,12 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "hack"
+THEME = "custom"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#000000'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -189,17 +189,17 @@ THEME_CONFIG = {
     }
 }
 # Config for bootstrap4:
-# THEME_CONFIG = {
-#     DEFAULT_LANG: {
-#         # Use a light navbar with dark text. Defaults to False.
-#         'navbar_light': False,
-#         # Use a custom navbar color. If unset, 'navbar_light' sets text +
-#         # background color. If set, navbar_light controls only background
-#         # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
-#         # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
-#         'navbar_custom_bg': '',
-#     }
-# }
+THEME_CONFIG = {
+    DEFAULT_LANG: {
+         # Use a light navbar with dark text. Defaults to False.
+         #'navbar_light': False,
+         # Use a custom navbar color. If unset, 'navbar_light' sets text +
+         # background color. If set, navbar_light controls only background
+         # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
+         # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
+         'navbar_custom_bg': 'bg-transparent',
+     }
+}
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -940,7 +940,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -1193,7 +1193,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Only include teasers in Atom and RSS feeds. Disabling include the full
 # content. Defaults to True.
-# FEED_TEASERS = True
+FEED_TEASERS = False
 
 # Strip HTML from Atom and RSS feed summaries and content. Defaults to False.
 # FEED_PLAIN = False

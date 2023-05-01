@@ -27,6 +27,8 @@ using Nikola as well, assuming I can get it to my liking.
 
 With a customizable config, of course.
 
+.. TEASER_END
+
 The automation with actions seems pretty straightforward, but as an eventuality 
 I'd like to get this up on an EC2 at some juncture, although staying within 
 free-tier is probably impossible (understandably). 

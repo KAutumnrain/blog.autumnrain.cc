@@ -23,6 +23,8 @@ my current circumstances. The nice thing about this is that I get a proper RSS f
 and I can use it for multiple things. Once I get some domains figured out, things just
 kinda fall into place. 
 
+.. TEASER_END
+
 The substack blog was supposed to be a project-specific-esque-learn-everything-always
 blog, but it ended up stressing me out more than it needed to, and adding salt into the
 wound when things got much worse. One thing I'm recognizing is how awful life-changing
