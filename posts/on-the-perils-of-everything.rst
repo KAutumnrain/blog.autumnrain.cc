@@ -54,8 +54,8 @@ Other Glaring Instances
 
 Obviously Substack isn't the only offender here. Whilst it's useful as a case study for  implementations and moderation failures as a result of those, I think there are even more mundane systems that attempt to shift into another function and fail, or just don't even try. 
 
-Discord's Forum system, for example, is essentially real-time chat channel disguised as a
-replacement for real forums, which it certainly isn't. Forums are usually indexable and slower-moving, which influences the conversation. Certainly a different *era* of design, but not necessarily outdated in regards to conveying information. Discord isn't indexable, which means when those servers inevitably shutdown, all info in those forums goes away permanently. The forum format isn't perfect and has its own share of issues (as well as starting some ones that continued with modern social media), but a real time chat system is hardly an adequate replacement for it.
+Discord's Forum system, for example, is essentially a real-time chat channel disguised as a
+replacement for real forums, which it certainly isn't. Forums are usually indexable and slower-moving, which influences the conversation. Certainly a different *era* of design, but not necessarily outdated in regards to conveying information. Discord isn't indexable, which means when those servers inevitably shutdown, all info in those forums goes away permanently. The forum format isn't perfect and has its own share of issues (as well as starting some that continued with modern social media), but a real time chat system is hardly an adequate replacement for it.
 
 Facebook/Meta is also, as mentioned, the closest possible western analog to a WeChat-like app in this market, and as such also suffers from way... WAY too many issues to count in one blog post like this. Privacy debacles, interoperability issues, moderation missteps...
 
