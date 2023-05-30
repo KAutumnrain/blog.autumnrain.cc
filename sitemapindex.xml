@@ -15,11 +15,15 @@
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/cat_personal.xml</loc>
-  <lastmod>2023-05-01T14:06:00Z</lastmod>
+  <lastmod>2023-05-30T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/cat_technology.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-03T02:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kautumnrain.github.io/categories/gaming.xml</loc>
+  <lastmod>2023-05-30T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/iteration.xml</loc>
@@ -27,30 +31,38 @@
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/ramblings.xml</loc>
-  <lastmod>2023-05-01T14:06:00Z</lastmod>
+  <lastmod>2023-05-30T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/social-media.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-03T02:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/sociology.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-03T02:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/categories/tech.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-03T02:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kautumnrain.github.io/categories/ttrpg.xml</loc>
+  <lastmod>2023-05-30T13:59:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://kautumnrain.github.io/categories/wod.xml</loc>
+  <lastmod>2023-05-30T13:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/galleries/rss.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-30T13:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/rss.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-30T14:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://kautumnrain.github.io/sitemap.xml</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-05-30T14:02:00Z</lastmod>
  </sitemap>
 </sitemapindex>
