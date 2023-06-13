@@ -7,98 +7,110 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://kautumnrain.github.io/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/2023/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/archive.html</loc>
-  <lastmod>2023-05-30T14:02:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/</loc>
-  <lastmod>2023-05-30T13:58:00Z</lastmod>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/blog-meta/</loc>
-  <lastmod>2023-05-01T04:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/cat_blog-meta/</loc>
-  <lastmod>2023-05-01T04:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/cat_personal/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kautumnrain.github.io/categories/cat_reamplitude/</loc>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/cat_technology/</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kautumnrain.github.io/categories/dev/</loc>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/gaming/</loc>
-  <lastmod>2023-05-30T13:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/iteration/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kautumnrain.github.io/categories/ops/</loc>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kautumnrain.github.io/categories/projects/</loc>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/ramblings/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/social-media/</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/sociology/</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/tech/</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/ttrpg/</loc>
-  <lastmod>2023-05-30T13:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/wod/</loc>
-  <lastmod>2023-05-30T13:58:00Z</lastmod>
- </url>
- <url>
-  <loc>https://kautumnrain.github.io/galleries/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://kautumnrain.github.io/listings/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/blog-changes/</loc>
-  <lastmod>2023-05-01T04:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/encroaching-darkness/</loc>
-  <lastmod>2023-05-30T13:58:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/logical-progression/</loc>
-  <lastmod>2023-05-01T13:43:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/on-the-perils-of-everything/</loc>
-  <lastmod>2023-05-03T01:55:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/</loc>
-  <lastmod>2023-04-26T04:56:00Z</lastmod>
+  <lastmod>2023-06-13T01:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://kautumnrain.github.io/posts/reamp/</loc>
+  <lastmod>2023-06-13T02:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/starting-back/</loc>
-  <lastmod>2023-04-24T00:26:00Z</lastmod>
+  <lastmod>2023-06-13T01:22:00Z</lastmod>
  </url>
 </urlset>
