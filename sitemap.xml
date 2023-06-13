@@ -7,19 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://kautumnrain.github.io/</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/2023/</loc>
-  <lastmod>2023-06-13T01:22:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/archive.html</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/</loc>
-  <lastmod>2023-06-13T02:05:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/blog-meta/</loc>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/cat_personal/</loc>
-  <lastmod>2023-06-13T01:22:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/cat_reamplitude/</loc>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/iteration/</loc>
-  <lastmod>2023-06-13T01:22:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/ops/</loc>
@@ -63,7 +63,7 @@
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/ramblings/</loc>
-  <lastmod>2023-06-13T01:22:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://kautumnrain.github.io/categories/social-media/</loc>
@@ -111,6 +111,6 @@
  </url>
  <url>
   <loc>https://kautumnrain.github.io/posts/starting-back/</loc>
-  <lastmod>2023-06-13T01:22:00Z</lastmod>
+  <lastmod>2023-06-13T02:30:00Z</lastmod>
  </url>
 </urlset>
