@@ -13,7 +13,7 @@
 The title says it all, basically. I dunno how often these will even be necessary, but I've definitely put myself in a corner with how I'm handling the actual blogging.
 
 Firstly, I'm working on getting my old substack content off of the platform and put here. Once this is done, it'll be under the 'digest-archive' category. It is far
-past time I stopped totally relying on that platform for hosting my content. The posts will be properly backdated, and all links will be replaced.
+past time I stopped relying on that platform for hosting any of my content. The posts will be properly backdated, and all links will be replaced.
 
 It's been roughly a year since I tried to do a weekly arrangement of interesting things, and since then, 
 I've burnt out probably three times over and have gone through multiple life-changing events.  I'm slowly getting my groove properly again, 
@@ -25,8 +25,8 @@ and a haphazard workflow between machines continue to pose some challenges, I do
 I still find the challenge to be in the writing, and I know I'm not exactly a good author. 
 
 I've been mostly avoiding posting on social media for a hot while, but especially the last couple of weeks... I don't think people want to hear my incessant sadposting about my trivial problems
-(and, of course, complaining about it online does nothing for me), so I will keep it to myself, for now. Additionally, with platforms enshittifying immensely quickly, I find that navigating all of it,
-even with filters, to be draining. I am not a good litmus test for opinions on these things, so I will not preoffer them here (despite already doing so, basically).
+(and, of course, complaining about it online does nothing for me), so I will keep it to myself, for now. Additionally, with platforms enshittifying extremely fast, I find that navigating all of it,
+even with filters, to be incredibly draining. I am not a good litmus test for opinions on these things, so I will not preoffer them here (despite already doing so, basically).
 
 Regarding the previous post, I have started on a set of scripts for the Jabber/XMPP protocol. I don't have much more than boilerplate code at present, but I'm hoping to improve the seemingly-dire
 script/bot/daemon landscape a little at a time. The major issue appears to be a lack of ready-made API wrappers for some things, but I'm not that worried about it. 
