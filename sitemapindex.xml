@@ -6,75 +6,79 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/blog-meta.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/blog-meta.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/cat_blog-meta.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/cat_blog-meta.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/cat_personal.xml</loc>
-  <lastmod>2023-07-07T09:23:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/cat_personal-blog-meta.xml</loc>
+  <lastmod>2023-08-13T12:11:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/cat_reamplitude.xml</loc>
-  <lastmod>2023-06-13T15:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/cat_personal.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/cat_technology.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/cat_reamplitude.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/dev.xml</loc>
-  <lastmod>2023-06-13T15:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/cat_technology.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/gaming.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/dev.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/iteration.xml</loc>
-  <lastmod>2023-06-13T02:30:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/gaming.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/ops.xml</loc>
-  <lastmod>2023-06-13T15:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/iteration.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/projects.xml</loc>
-  <lastmod>2023-07-07T09:23:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/ops.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/ramblings.xml</loc>
-  <lastmod>2023-07-07T09:23:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/projects.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/social-media.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/ramblings.xml</loc>
+  <lastmod>2023-08-13T12:11:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/sociology.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/social-media.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/tech.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/sociology.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/ttrpg.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/tech.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/categories/wod.xml</loc>
-  <lastmod>2023-06-13T01:27:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/ttrpg.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/rss.xml</loc>
-  <lastmod>2023-07-07T09:23:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/categories/wod.xml</loc>
+  <lastmod>2023-08-13T11:31:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://kautumnrain.github.io/sitemap.xml</loc>
-  <lastmod>2023-07-07T09:23:00Z</lastmod>
+  <loc>https://blog.autumnrain.cc/rss.xml</loc>
+  <lastmod>2023-08-13T12:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://blog.autumnrain.cc/sitemap.xml</loc>
+  <lastmod>2023-08-13T12:11:00Z</lastmod>
  </sitemap>
 </sitemapindex>
