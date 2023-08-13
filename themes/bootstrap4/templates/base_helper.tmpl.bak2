@@ -145,7 +145,7 @@ lang="${lang}">
             </div>
         % else:
             % if rel_link(permalink, url) == "#":
-                <div style="display:none; !important"></div>
+                <div style="display:none; !important"><li class="nav-item active" style="display:none;"><a href="${permalink}" class="nav-link">${text} <span class="sr-only">${messages("(active)", lang)}</span></a></div>
             %else:
                 <li class="nav-item"><a href="${url}" class="nav-link"><div class="nav-nodropdown" data-augmented-ui="br-clip both" style="display: flex;">${text}</div></a>
             %endif

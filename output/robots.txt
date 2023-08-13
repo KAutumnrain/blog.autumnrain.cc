@@ -1,4 +1,4 @@
-Sitemap: https://kautumnrain.github.io/sitemapindex.xml
+Sitemap: https://blog.autumnrain.cc/sitemapindex.xml
 
 User-Agent: *
-Host: kautumnrain.github.io
+Host: blog.autumnrain.cc

@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1688722212.7180092
+_modified_time = 1691930042.73463
 _enable_loop = True
-_template_filename = '/usr/lib/python3.11/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl'
+_template_filename = '/home/katerina/nikola-env/lib/python3.11/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl'
 _template_uri = 'comments_helper_utterances.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['comment_form', 'comment_link', 'comment_link_script']
@@ -82,6 +82,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/usr/lib/python3.11/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl", "uri": "comments_helper_utterances.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 13, "22": 19, "23": 23, "29": 2, "35": 2, "36": 3, "37": 4, "38": 4, "39": 4, "40": 5, "41": 5, "42": 6, "43": 7, "44": 8, "45": 8, "46": 8, "47": 8, "48": 8, "49": 11, "55": 15, "61": 15, "62": 16, "63": 17, "64": 17, "65": 17, "66": 17, "67": 17, "73": 22, "77": 22, "83": 77}}
+{"filename": "/home/katerina/nikola-env/lib/python3.11/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl", "uri": "comments_helper_utterances.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 13, "22": 19, "23": 23, "29": 2, "35": 2, "36": 3, "37": 4, "38": 4, "39": 4, "40": 5, "41": 5, "42": 6, "43": 7, "44": 8, "45": 8, "46": 8, "47": 8, "48": 8, "49": 11, "55": 15, "61": 15, "62": 16, "63": 17, "64": 17, "65": 17, "66": 17, "67": 17, "73": 22, "77": 22, "83": 77}}
 __M_END_METADATA
 """
