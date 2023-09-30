@@ -1,4 +1,22 @@
 Sitemap: https://blog.autumnrain.cc/sitemapindex.xml
 
-User-Agent: *
-Host: blog.autumnrain.cc
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-Agent: FacebookBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
