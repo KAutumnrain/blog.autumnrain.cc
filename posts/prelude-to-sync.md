@@ -4,8 +4,7 @@
 .. date: 2023-10-05 12:00:00 UTC-04:00
 .. tags: blog meta, dev, ops, projects
 .. category: personal
-.. link: https://blog.autumnrain.cc/posts/prelude-to-sync
-.. description: "Channel Training: Line: 0, vector_state: 4, enabled: 0..."
+.. description: Channel Training: Line: 0, vector_state: 4, enabled: 0...
 .. type: text
 -->
 
