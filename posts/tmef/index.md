@@ -28,11 +28,12 @@ During the time period of October 2022-June/July 2023 (and even extending a bit 
 That dark time has passed, and my motivation is somewhat returned. I'm still burnt out a little, but I can at least look at code again without wanting to throw up, which is a good sign. 
 
 Current objectives: 
-- Finish infrastructure projects
-- Prepare for school
-- Get some music out at some point
-- Forge a better future.
-
+<ul>
+<li>Finish infrastructure projects</li>
+<li>Prepare for school</li>
+<li>Get some music out at some point</li>
+<li>Forge a better future.</li>
+</ul>
 Moving on, I will note that my general social media presence is pretty much dead; Obviously I like the fediverse for various reasons, but I struggle to interact with it because I guess I miss having a circle of folks to interact with, which I don't really have anymore as a direct result of Twitter dissipating, in addition to the social anxiety I feel. Overall, however, I still think a protocol is ideal vs a platform when regarding social media. This being said, I will not be touching bluesky, for example, with a ten-foot (≈3m) lead pole, mostly because it's heavily moderation-resistant and also has Jack Dorsey's involvement in some fashion. After everything I've seen, I think I'm OK with avoiding platforms and protocols he's involved in. 
 
 All this to say that I'm trying to post more from here on, I just don't really have the feel for it yet.

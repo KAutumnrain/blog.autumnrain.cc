@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about projects)</title><link>https://blog.autumnrain.cc/</link><description></description><atom:link href="https://blog.autumnrain.cc/categories/projects.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Tue, 12 Dec 2023 22:21:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Time Moves Ever Forward</title><link>https://blog.autumnrain.cc/posts/tmef/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;:'3&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about projects)</title><link>https://blog.autumnrain.cc/</link><description></description><atom:link href="https://blog.autumnrain.cc/categories/projects.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Tue, 12 Dec 2023 22:27:56 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Time Moves Ever Forward</title><link>https://blog.autumnrain.cc/posts/tmef/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;:'3&lt;/p&gt;
 &lt;p&gt;I wanted more posts out more frequently but that sure didn't happen lol. This one's gonna be a bit more rambly so you can probably skip it.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -9,11 +9,13 @@
 &lt;p&gt;Now that I'm out of my depression rut, thanks to a couple of people who are super kind and fun to hang out with (:3), I can look back at the effects objectively; Things are looking up now, but I expect there to be more, lesser roadblocks in the future. That's OK.&lt;/p&gt;
 &lt;p&gt;During the time period of October 2022-June/July 2023 (and even extending a bit into September), the depression absorbed my entire life, and whilst I could get things done, to say I could function was another thing entirely. Whilst I generally dislike spotify for various reasons, I think my listening time on my wrapped and the scrobbles on last.fm heavily reflect that time period, where I just kinda existed for weeks on end, not really being able to feel, listening to my depression music.&lt;/p&gt;
 &lt;p&gt;That dark time has passed, and my motivation is somewhat returned. I'm still burnt out a little, but I can at least look at code again without wanting to throw up, which is a good sign. &lt;/p&gt;
-&lt;p&gt;Current objectives: 
-- Finish infrastructure projects
-- Prepare for school
-- Get some music out at some point
-- Forge a better future.&lt;/p&gt;
+&lt;p&gt;Current objectives: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Finish infrastructure projects&lt;/li&gt;
+&lt;li&gt;Prepare for school&lt;/li&gt;
+&lt;li&gt;Get some music out at some point&lt;/li&gt;
+&lt;li&gt;Forge a better future.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Moving on, I will note that my general social media presence is pretty much dead; Obviously I like the fediverse for various reasons, but I struggle to interact with it because I guess I miss having a circle of folks to interact with, which I don't really have anymore as a direct result of Twitter dissipating, in addition to the social anxiety I feel. Overall, however, I still think a protocol is ideal vs a platform when regarding social media. This being said, I will not be touching bluesky, for example, with a ten-foot (≈3m) lead pole, mostly because it's heavily moderation-resistant and also has Jack Dorsey's involvement in some fashion. After everything I've seen, I think I'm OK with avoiding platforms and protocols he's involved in. &lt;/p&gt;
 &lt;p&gt;All this to say that I'm trying to post more from here on, I just don't really have the feel for it yet.&lt;/p&gt;
 &lt;p&gt;As for the blog in and of itself, I'm working on a new theme to achieve parity with my main site, but I'm not sure how I want to handle it this time. Skinning bootstrap4 last time was... fine? But it doesn't seem to support the meta tags I need it to, and adding them in is like, somewhat haphazard since I haven't yet found the areas where they even actually get added, which is somewhat frustrating. Solution: develop my own theme; Caveats: time sink. Will have to think about it.&lt;/p&gt;
