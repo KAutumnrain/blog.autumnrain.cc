@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/blog-meta.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/cat_blog-meta.xml</loc>
@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/cat_personal.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/cat_reamplitude.xml</loc>
@@ -31,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/dev.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/gaming.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/ops.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/photography.xml</loc>
@@ -55,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/projects.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/categories/ramblings.xml</loc>
@@ -83,10 +83,10 @@
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/rss.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://blog.autumnrain.cc/sitemap.xml</loc>
-  <lastmod>2023-12-12T22:15:00Z</lastmod>
+  <lastmod>2023-12-26T22:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>
