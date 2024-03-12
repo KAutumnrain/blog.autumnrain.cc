@@ -926,6 +926,11 @@ html[dir="rtl"] body {
     min-height: 25px;
 }
 
+@font-face {
+  font-family: InterTight-Regular;
+  src: url('fonts/InterTight-Regular.woff2')
+}
+
 /* stylelint-disable selector-list-comma-newline-after */
 
 .blog-header {
@@ -1147,4 +1152,28 @@ article .metadata {
         text-align: center;
     }
 }
+
+body {
+background-color: #000;
+font-family: InterTight-Regular;
+}
+
+a {
+    color: #b98ec0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+  transition: color 1s
+}
+
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+  color: #7900eb;
+}
+
 
