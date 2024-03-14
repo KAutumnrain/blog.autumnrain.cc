@@ -1159,17 +1159,19 @@ font-family: InterTight-Regular;
 }
 
 a {
-    color: #b98ec0;
+    color: #ba8fc1;
 }
 
 a:hover {
     text-decoration: none;
+    color:  #fff;
+    transition: color .5s;
 }
 
 
 .navbar-dark .navbar-brand {
   color: #fff;
-  transition: color 1s
+  transition: color 1s;
 }
 
 .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
