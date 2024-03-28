@@ -49,7 +49,7 @@ Happy birthday.
 This is certainly not the cleanest example, but it's still pretty simple. This describes a repost on my account, with a link, publish date, and encoded content.
 If I were using a feed reader like feedly or something, I could see all of my posts in chronological order, including reposts, in one feed. I could do that for other accounts, too!
 I could have a mixed feed of webcomics, News, and social media posts in one app. [Feedly](https://feedly.com/), as mentioned prior is a popular option, but I'm pretty attached to using local apps in my terminal and such.
-These are generally pretty standard across RSS versions (though things like ATOM have some extra fields added that break compatibility somewhat). This makes making things that use it *incredibly easy* to develop.
+The tags, as far as I'm aware, are generally pretty standard across RSS versions (though things like ATOM have some extra fields added that break compatibility somewhat). This makes making things that use it *incredibly easy* to develop, such as the aforementioned RSS feed reading bot.
 
 ### The Social
 
