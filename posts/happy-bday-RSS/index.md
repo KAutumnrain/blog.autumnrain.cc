@@ -1,7 +1,7 @@
 <!--
 .. title: Another Appreciation for RSS
 .. slug: happy-bday-RSS
-.. date: 2024-03-14 15:30:00 UTC-04:00
+.. date: 2024-03-25 03:20:00 UTC-04:00
 .. tags: tech, RSS
 .. category: technology
 .. previewimage:
