@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1710447889.1928644
+_modified_time = 1711610578.4455943
 _enable_loop = True
-_template_filename = '/home/kat/.local/lib/python3.10/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl'
+_template_filename = '/usr/lib/python3.12/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl'
 _template_uri = 'comments_helper_utterances.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['comment_form', 'comment_link', 'comment_link_script']
@@ -29,8 +29,8 @@ def render_body(context,**pageargs):
 def render_comment_form(context,url,title,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
-        utterances_config = context.get('utterances_config', UNDEFINED)
         comment_system_id = context.get('comment_system_id', UNDEFINED)
+        utterances_config = context.get('utterances_config', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system_id:
@@ -55,8 +55,8 @@ def render_comment_form(context,url,title,identifier):
 def render_comment_link(context,link,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
-        messages = context.get('messages', UNDEFINED)
         comment_system_id = context.get('comment_system_id', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system_id:
@@ -82,6 +82,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"filename": "/home/kat/.local/lib/python3.10/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl", "uri": "comments_helper_utterances.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 13, "22": 19, "23": 23, "29": 2, "35": 2, "36": 3, "37": 4, "38": 4, "39": 4, "40": 5, "41": 5, "42": 6, "43": 7, "44": 8, "45": 8, "46": 8, "47": 8, "48": 8, "49": 11, "55": 15, "61": 15, "62": 16, "63": 17, "64": 17, "65": 17, "66": 17, "67": 17, "73": 22, "77": 22, "83": 77}}
+{"filename": "/usr/lib/python3.12/site-packages/nikola/data/themes/base/templates/comments_helper_utterances.tmpl", "uri": "comments_helper_utterances.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 13, "22": 19, "23": 23, "29": 2, "35": 2, "36": 3, "37": 4, "38": 4, "39": 4, "40": 5, "41": 5, "42": 6, "43": 7, "44": 8, "45": 8, "46": 8, "47": 8, "48": 8, "49": 11, "55": 15, "61": 15, "62": 16, "63": 17, "64": 17, "65": 17, "66": 17, "67": 17, "73": 22, "77": 22, "83": 77}}
 __M_END_METADATA
 """

@@ -7,178 +7,186 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://blog.autumnrain.cc/</loc>
-  <lastmod>2024-03-08T21:02:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/2023/</loc>
-  <lastmod>2024-02-21T03:59:00Z</lastmod>
+  <lastmod>2024-03-28T06:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/2024/</loc>
-  <lastmod>2024-03-08T21:02:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/archive.html</loc>
-  <lastmod>2024-03-14T20:18:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/</loc>
-  <lastmod>2024-03-14T20:18:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/blog-meta/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_blog-meta/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_personal-blog-meta/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_personal/</loc>
-  <lastmod>2024-02-21T03:59:00Z</lastmod>
+  <lastmod>2024-03-28T06:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_political/</loc>
-  <lastmod>2024-03-11T22:18:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_reamplitude/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/cat_technology/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/dev/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/gaming/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/hobbies/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/iteration/</loc>
-  <lastmod>2024-02-21T03:59:00Z</lastmod>
+  <lastmod>2024-03-28T06:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/ops/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/personal/</loc>
-  <lastmod>2024-03-14T20:18:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/photography/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/politics/</loc>
-  <lastmod>2024-03-08T21:02:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/projects/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/ramblings/</loc>
-  <lastmod>2024-02-21T03:59:00Z</lastmod>
+  <lastmod>2024-03-28T06:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://blog.autumnrain.cc/categories/rss/</loc>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/social-media/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/sociology/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/tech/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/tey/</loc>
-  <lastmod>2024-03-08T21:03:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/ttrpg/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/categories/wod/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/index-1.html</loc>
-  <lastmod>2024-03-14T20:18:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/F2023/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/TEY2024-1/</loc>
-  <lastmod>2024-03-08T21:02:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/at-the-edge/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/blog-changes/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/encroaching-darkness/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/estradiol-soundsystem/</loc>
-  <lastmod>2024-03-14T20:17:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://blog.autumnrain.cc/posts/happy-bday-RSS/</loc>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/logical-progression/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/on-the-perils-of-everything/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/optical-simulacra/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/prelude-to-sync/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/ramblings-of-a-cryotank/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/reamp/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/starting-back/</loc>
-  <lastmod>2024-02-21T03:59:00Z</lastmod>
+  <lastmod>2024-03-28T06:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/the-status-update-zone-July-7th/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://blog.autumnrain.cc/posts/tmef/</loc>
-  <lastmod>2024-02-21T04:04:00Z</lastmod>
+  <lastmod>2024-03-28T07:21:00Z</lastmod>
  </url>
 </urlset>
