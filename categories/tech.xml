@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about tech)</title><link>https://blog.autumnrain.cc/</link><description></description><atom:link href="https://blog.autumnrain.cc/categories/tech.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Wed, 21 Feb 2024 04:04:34 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>On the Perils of 'Everything'</title><link>https://blog.autumnrain.cc/posts/on-the-perils-of-everything/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;Ah. Scope creep rears its ugly head again. Except... it's by design, for some reason.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Converging Infinity (Posts about tech)</title><link>https://blog.autumnrain.cc/</link><description></description><atom:link href="https://blog.autumnrain.cc/categories/tech.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:"&gt;kat&lt;/a&gt; </copyright><lastBuildDate>Thu, 28 Mar 2024 07:21:31 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Another Appreciation for RSS</title><link>https://blog.autumnrain.cc/posts/happy-bday-RSS/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;Got a bit of a quick one for you today.&lt;/p&gt;
+&lt;p&gt;On March 15th, 1999, RSS was initially released to the world on the Netscape.com portal.&lt;/p&gt;
+&lt;p&gt;Previously, I wrote about RSS as a part of an experiment where I tried to find one cool thing weekly.
+I failed at that experiment, but I think it was a good experiment. It's a shame it had to be on substack first.&lt;/p&gt;
+&lt;p&gt;So now, I revive that post somewhat in an in-depth appreciation for RSS.&lt;/p&gt;
+&lt;p&gt;Happy birthday.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Vaguely Technical: RSS format&lt;/h4&gt;
+&lt;p&gt;RSS uses XML formatting to describe a feed and its items. Whilst XML causes some developers to get the thousand-yard stare, myself somewhat included, I have used it before with little issue.&lt;/p&gt;
+&lt;p&gt;My favorite creation was an RSS feed reading bot for News and Podcasts I used for an XMPP server. It just fit right in and it posts to some MUCs we have setup. We love newsbot in this house.&lt;/p&gt;
+&lt;p&gt;To give an example of RSS' XML format, here's an entry from my &lt;a href="https://infosec.town"&gt;infosec.town&lt;/a&gt; account:&lt;/p&gt;
+&lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;&lt;span class="nt"&gt;&amp;lt;item&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;title&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&amp;lt;![CDATA[Build target: _katerina 🏳️‍⚧️ renotes]]&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;link&amp;gt;&lt;/span&gt;https://infosec.town/notes/9qi6i8sau4gzl45f&lt;span class="nt"&gt;&amp;lt;/link&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;guid&amp;gt;&lt;/span&gt;https://infosec.town/notes/9qi6i8sau4gzl45f&lt;span class="nt"&gt;&amp;lt;/guid&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;pubDate&amp;gt;&lt;/span&gt;Tue,&lt;span class="w"&gt; &lt;/span&gt;05&lt;span class="w"&gt; &lt;/span&gt;Mar&lt;span class="w"&gt; &lt;/span&gt;2024&lt;span class="w"&gt; &lt;/span&gt;16:58:57&lt;span class="w"&gt; &lt;/span&gt;GMT&lt;span class="nt"&gt;&amp;lt;/pubDate&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;content:encoded&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&amp;lt;![CDATA[ &amp;lt;span class="renote_note without_img"&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;hr&amp;gt;Jerry Bell :verified_paw: :donor: :verified_dragon: :rebelverified:​(@jerry@infosec.exchange) says:                        &amp;lt;br&amp;gt;&lt;/span&gt;
+&lt;span class="cp"&gt;    Sites available&lt;/span&gt;
+&lt;span class="cp"&gt;    ❌Facebook&lt;/span&gt;
+&lt;span class="cp"&gt;    ❌instagram&lt;/span&gt;
+&lt;span class="cp"&gt;    ✅Infosec.exchange&lt;/span&gt;
+&lt;span class="cp"&gt;    ]]&amp;gt;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;/content:encoded&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/item&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;This is certainly not the cleanest example, but it's still pretty simple. This describes a repost on my account, with a link, publish date, and encoded content.
+If I were using a feed reader like feedly or something, I could see all of my posts in chronological order, including reposts, in one feed. I could do that for other accounts, too!
+I could have a mixed feed of webcomics, News, and social media posts in one app. &lt;a href="https://feedly.com/"&gt;Feedly&lt;/a&gt;, as mentioned prior is a popular option, but I'm pretty attached to using local apps in my terminal and such.
+These are generally pretty standard across RSS versions (though things like ATOM have some extra fields added that break compatibility somewhat). This makes making things that use it &lt;em&gt;incredibly easy&lt;/em&gt; to develop.&lt;/p&gt;
+&lt;h4&gt;The Social&lt;/h4&gt;
+&lt;p&gt;To appreciate RSS, one must contemplate how often they interact with it.&lt;/p&gt;
+&lt;p&gt;As an avid podcast listener, I interact with it pretty much daily. Whilst apps like Google Podcasts exist&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="https://blog.autumnrain.cc/posts/happy-bday-RSS/#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, I tend to veer towards the open-source. For a long time I used gPodder on PC, but for want of synchronization and modernity, I moved over to KDE's Kasts on Desktop and Laptops, and Antennapod for mobile. I sync my subscriptions with a nextcloud instance. It treats me pretty well!&lt;/p&gt;
+&lt;p&gt;Pretty much all of my podcasts have easily-found RSS feeds, and in the worst scenarios (like podcasts only hosted on Apple podcasts for some reason?) I can use something like &lt;a href="https://getrssfeed.com/"&gt;Get RSS Feed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Why does my podcast behavior matter? Well, it's a form of curation.&lt;/p&gt;
+&lt;p&gt;I can self-curate pretty much any content I wish so long as it has an RSS feed. News sites, blogs, podcasts. I have control and authority over what I can read. This is &lt;em&gt;incredibly powerful&lt;/em&gt; for ingesting content.
+At one point, even Facebook and Twitter had RSS feeds. Those things are gone now, but many Fediverse platforms support it, and the protocol is primarily chronological, making self-curation easy.&lt;/p&gt;
+&lt;p&gt;In the modern era, we've become incredibly reliant on algorithmic news feeds to deliver us headlines and content.&lt;/p&gt;
+&lt;p&gt;I propose that with RSS slowly regaining its appeal, that we cultivate a new era of web syndication. RSS does the job well, is used constantly in various types of places like blogs and podcasts, and is interoperable.&lt;/p&gt;
+&lt;p&gt;Google Reader might be dead, algorithms might have made decisions for us in the past, but self-curation and interoperability are incredibly powerful. Not to mention, for me, it feels more human.&lt;/p&gt;
+&lt;p&gt;Thank you, RSS.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;&lt;a href="https://arstechnica.com/gadgets/2023/12/google-podcasts-dies-april-2024-youtube-music-migration-tool-goes-live/"&gt;Oops! My bad! Add it to the graveyard.&lt;/a&gt; &lt;a class="footnote-backref" href="https://blog.autumnrain.cc/posts/happy-bday-RSS/#fnref:1" title="Jump back to footnote 1 in the text"&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description><category>RSS</category><category>tech</category><guid>https://blog.autumnrain.cc/posts/happy-bday-RSS/</guid><pubDate>Thu, 14 Mar 2024 19:30:00 GMT</pubDate></item><item><title>On the Perils of 'Everything'</title><link>https://blog.autumnrain.cc/posts/on-the-perils-of-everything/</link><dc:creator>kat</dc:creator><description>&lt;p&gt;Ah. Scope creep rears its ugly head again. Except... it's by design, for some reason.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://kautumnrain.github.io/posts/ramblings-of-a-cryotank/"&gt;Previously&lt;/a&gt;, I mentioned that there may be a post regarding 'everything apps'. In actuality, I described it using the term 'rant', but I think I can structure this in a way that doesn't require a flow of consciousness.&lt;/p&gt;
 &lt;p&gt;For starters, I suppose I should mention that I'm not entirely adverse to people and companies trying to do different things in software. My opinion, however, is that an application or script should do at most three things, lest functionality, usability and sanity be sacrificed for an ever-expanding featureset.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
