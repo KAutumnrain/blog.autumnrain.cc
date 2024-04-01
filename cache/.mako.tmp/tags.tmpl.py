@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1711929657.4487343
+_modified_time = 1711930155.9829576
 _enable_loop = True
 _template_filename = 'themes/bootstrap4/templates/tags.tmpl'
 _template_uri = 'tags.tmpl'
@@ -28,15 +28,15 @@ def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
-        def content():
-            return render_content(context._locals(__M_locals))
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
-        range = context.get('range', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         items = context.get('items', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
-        len = context.get('len', UNDEFINED)
         cat_items = context.get('cat_items', UNDEFINED)
+        def content():
+            return render_content(context._locals(__M_locals))
+        range = context.get('range', UNDEFINED)
         title = context.get('title', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n\n')
@@ -53,15 +53,15 @@ def render_body(context,**pageargs):
 def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
-        def content():
-            return render_content(context)
-        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
-        range = context.get('range', UNDEFINED)
+        len = context.get('len', UNDEFINED)
         items = context.get('items', UNDEFINED)
+        cat_hierarchy = context.get('cat_hierarchy', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         hidden_tags = context.get('hidden_tags', UNDEFINED)
-        len = context.get('len', UNDEFINED)
         cat_items = context.get('cat_items', UNDEFINED)
+        def content():
+            return render_content(context)
+        range = context.get('range', UNDEFINED)
         title = context.get('title', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<h1>')
