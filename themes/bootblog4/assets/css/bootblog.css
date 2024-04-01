@@ -277,3 +277,10 @@ a.text-dark:focus, a.text-dark:hover {
  color: #fff !important;
 
 }
+
+
+.badge-secondary {
+ color: #fff !important;
+ background-color: #111;
+
+}

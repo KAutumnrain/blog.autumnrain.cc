@@ -24,7 +24,7 @@ The fact of the matter is that I'm not a great writer. I feel I have no writing 
 
 However, that's not the point.
 
-In training a skill, one must practice [citation needed]. A skill not practiced holds little practical capability, where it generally fades away into the neuronic noise, overwritten by pathways not beset by one's wont to preserve that little-used skill. 
+In training a skill, one must practice<sup>[[citation needed]](https://xkcd.com/285/)</sup>. A skill not practiced holds little practical capability, where it generally fades away into the neuronic noise, overwritten by pathways not beset by one's wont to preserve that little-used skill. 
 
 Needless to say, I have been practicing, and obviously the starting results haven't been *good* per se, but I wanted to describe one of the biggest frustrations I've had when doing my research.
 
