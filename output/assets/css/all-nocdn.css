@@ -1160,17 +1160,18 @@ article .metadata {
 }
 
 body {
-background-color: #000;
-font-family: InterTight-Regular;
+	background-color: #000;
+	font-family: InterTight-Regular;
+	color: #eee;
 }
 
 a {
-    color: #ba8fc1;
+    color: #ba8fc1 !important;
 }
 
 a:hover {
     text-decoration: none;
-    color:  #fff;
+    color:  #fff !important;
     transition: color .5s;
 }
 
@@ -1178,10 +1179,36 @@ a:hover {
 .navbar-dark .navbar-brand {
   color: #fff;
   transition: color 1s;
+  background: #111;
 }
 
 .navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
   color: #7900eb;
 }
 
+.bg-white {
+  color: #fff;
+  background: #111;
+
+}
+navbar navbar-expand-md navbar-light static-top {
+color: #fff;
+background: #111;
+}
+
+.navbar-light .navbar-nav .nav-link {
+color: #fff;
+}
+.navbar-expand-md {
+
+background: #111;
+}
+
+
+
+a.text-dark:focus, a.text-dark:hover {
+
+ color: #fff !important;
+
+}
 
