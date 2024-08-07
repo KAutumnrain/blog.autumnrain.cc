@@ -1,7 +1,7 @@
 <!--
 .. title: Awakening and Apophenia
 .. slug: awakening-and-apophenia
-.. date: 2024-03-31 18:00:00 UTC-04:00
+.. date: 2024-08-07 04:00:00 UTC-04:00
 .. tags: ramblings, forward movement
 .. category: personal
 .. description: what are your dreams made of?
@@ -9,6 +9,8 @@
 -->
 
 I stand before you, five months after my last post. 
+
+<!-- TEASER_END -->
 
 In a sense, not much has changed. Things have kept moving.  I've obtained my motorcycle license, I've started talking to someone (an angel of the moon, no less :3), and I've broken free of a false maze. 
 
